@@ -1,0 +1,163 @@
+YEAR,MONTH,TYPE,predicted_incident_count
+2012,1,Break and Enter Commercial,224.976456248049
+2012,2,Break and Enter Commercial,249.34
+2012,3,Break and Enter Commercial,249.34
+2012,4,Break and Enter Commercial,249.34
+2012,5,Break and Enter Commercial,249.34
+2012,6,Break and Enter Commercial,303.0
+2012,7,Break and Enter Commercial,303.0
+2012,8,Break and Enter Commercial,249.34
+2012,9,Break and Enter Commercial,249.34
+2012,10,Break and Enter Commercial,249.34
+2012,11,Break and Enter Commercial,249.34
+2012,12,Break and Enter Commercial,249.34
+2013,1,Break and Enter Commercial,249.34
+2013,2,Break and Enter Commercial,249.34
+2013,3,Break and Enter Commercial,249.34
+2013,4,Break and Enter Commercial,249.34
+2013,5,Break and Enter Commercial,249.34
+2013,6,Break and Enter Commercial,249.34
+2012,1,Break and Enter Residential/Other,363.74974901798
+2012,2,Break and Enter Residential/Other,352.91
+2012,3,Break and Enter Residential/Other,352.91
+2012,4,Break and Enter Residential/Other,352.91
+2012,5,Break and Enter Residential/Other,352.91
+2012,6,Break and Enter Residential/Other,359.3
+2012,7,Break and Enter Residential/Other,359.3
+2012,8,Break and Enter Residential/Other,359.3
+2012,9,Break and Enter Residential/Other,359.3
+2012,10,Break and Enter Residential/Other,352.91
+2012,11,Break and Enter Residential/Other,352.91
+2012,12,Break and Enter Residential/Other,352.91
+2013,1,Break and Enter Residential/Other,352.91
+2013,2,Break and Enter Residential/Other,352.91
+2013,3,Break and Enter Residential/Other,352.91
+2013,4,Break and Enter Residential/Other,352.91
+2013,5,Break and Enter Residential/Other,352.91
+2013,6,Break and Enter Residential/Other,352.91
+2012,1,Mischief,313.99460314239326
+2012,2,Mischief,352.91
+2012,3,Mischief,352.91
+2012,4,Mischief,352.91
+2012,5,Mischief,352.91
+2012,6,Mischief,359.3
+2012,7,Mischief,352.91
+2012,8,Mischief,359.3
+2012,9,Mischief,359.3
+2012,10,Mischief,352.91
+2012,11,Mischief,352.91
+2012,12,Mischief,352.91
+2013,1,Mischief,352.91
+2013,2,Mischief,352.91
+2013,3,Mischief,352.91
+2013,4,Mischief,352.91
+2013,5,Mischief,352.91
+2013,6,Mischief,352.91
+2012,1,Offence Against a Person,296.8533653610776
+2012,2,Offence Against a Person,338.0
+2012,3,Offence Against a Person,338.0
+2012,4,Offence Against a Person,344.39
+2012,5,Offence Against a Person,338.0
+2012,6,Offence Against a Person,338.0
+2012,7,Offence Against a Person,338.0
+2012,8,Offence Against a Person,344.39
+2012,9,Offence Against a Person,344.39
+2012,10,Offence Against a Person,338.0
+2012,11,Offence Against a Person,338.0
+2012,12,Offence Against a Person,338.0
+2013,1,Offence Against a Person,338.0
+2013,2,Offence Against a Person,338.0
+2013,3,Offence Against a Person,338.0
+2013,4,Offence Against a Person,338.0
+2013,5,Offence Against a Person,338.0
+2013,6,Offence Against a Person,338.0
+2012,1,Other Theft,365.0938023145773
+2012,2,Other Theft,338.0
+2012,3,Other Theft,338.0
+2012,4,Other Theft,344.39
+2012,5,Other Theft,338.0
+2012,6,Other Theft,338.0
+2012,7,Other Theft,338.0
+2012,8,Other Theft,338.0
+2012,9,Other Theft,344.39
+2012,10,Other Theft,338.0
+2012,11,Other Theft,338.0
+2012,12,Other Theft,338.0
+2013,1,Other Theft,338.0
+2013,2,Other Theft,338.0
+2013,3,Other Theft,338.0
+2013,4,Other Theft,338.0
+2013,5,Other Theft,338.0
+2013,6,Other Theft,338.0
+2012,1,Theft from Vehicle,1320.02
+2012,2,Theft from Vehicle,1438.0
+2012,3,Theft from Vehicle,1438.0
+2012,4,Theft from Vehicle,1438.0
+2012,5,Theft from Vehicle,1438.0
+2012,6,Theft from Vehicle,1438.0
+2012,7,Theft from Vehicle,1438.0
+2012,8,Theft from Vehicle,1438.0
+2012,9,Theft from Vehicle,1438.0
+2012,10,Theft from Vehicle,1438.0
+2012,11,Theft from Vehicle,1438.0
+2012,12,Theft from Vehicle,1438.0
+2013,1,Theft from Vehicle,1438.0
+2013,2,Theft from Vehicle,1438.0
+2013,3,Theft from Vehicle,1438.0
+2013,4,Theft from Vehicle,1438.0
+2013,5,Theft from Vehicle,1438.0
+2013,6,Theft from Vehicle,1438.0
+2012,1,Theft of Bicycle,127.3609170064294
+2012,2,Theft of Bicycle,111.05
+2012,3,Theft of Bicycle,111.05
+2012,4,Theft of Bicycle,111.05
+2012,5,Theft of Bicycle,111.05
+2012,6,Theft of Bicycle,164.71
+2012,7,Theft of Bicycle,164.71
+2012,8,Theft of Bicycle,111.05
+2012,9,Theft of Bicycle,111.05
+2012,10,Theft of Bicycle,111.05
+2012,11,Theft of Bicycle,111.05
+2012,12,Theft of Bicycle,111.05
+2013,1,Theft of Bicycle,111.05
+2013,2,Theft of Bicycle,111.05
+2013,3,Theft of Bicycle,111.05
+2013,4,Theft of Bicycle,111.05
+2013,5,Theft of Bicycle,111.05
+2013,6,Theft of Bicycle,164.71
+2012,1,Theft of Vehicle,150.75279910795106
+2012,2,Theft of Vehicle,338.0
+2012,3,Theft of Vehicle,338.0
+2012,4,Theft of Vehicle,344.39
+2012,5,Theft of Vehicle,344.39
+2012,6,Theft of Vehicle,344.39
+2012,7,Theft of Vehicle,344.39
+2012,8,Theft of Vehicle,344.39
+2012,9,Theft of Vehicle,338.0
+2012,10,Theft of Vehicle,338.0
+2012,11,Theft of Vehicle,338.0
+2012,12,Theft of Vehicle,338.0
+2013,1,Theft of Vehicle,338.0
+2013,2,Theft of Vehicle,338.0
+2013,3,Theft of Vehicle,338.0
+2013,4,Theft of Vehicle,338.0
+2013,5,Theft of Vehicle,338.0
+2013,6,Theft of Vehicle,344.39
+2012,1,Vehicle Collision or Pedestrian Struck (with Injury),129.95927007028524
+2012,2,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,3,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,4,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,5,Vehicle Collision or Pedestrian Struck (with Injury),184.92
+2012,6,Vehicle Collision or Pedestrian Struck (with Injury),184.92
+2012,7,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,8,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,9,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,10,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,11,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2012,12,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2013,1,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2013,2,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2013,3,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2013,4,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2013,5,Vehicle Collision or Pedestrian Struck (with Injury),139.0
+2013,6,Vehicle Collision or Pedestrian Struck (with Injury),184.92
